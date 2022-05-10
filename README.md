@@ -31,9 +31,7 @@ Few suggestions based on demographic and competitions; ignoring budget, accessib
 Demographics: If your target audience consist of students then consider opening an inexpensive restaurant.<br/>
 Competition: If the area has more top rated and top ranked restaurants then either avoid or find a way to funnel the people to your location. <br/>
 Few examples of point of interests:<br/>
-purple: most top ranked, most top rated <br/>
-red: no top ranked, least top rated <br/>
-green: others<br/>
+(purple: most top ranked, most top rated | red: no top ranked, least top rated | green: others)
 
 <br/>
 1. Berlin <br/>
