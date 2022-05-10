@@ -36,36 +36,36 @@ Few examples of point of interests:<br/>
 1. Berlin <br/>
 A lot of the city has top class restaurants especially in the heart of the city. But near Tegel airport there is none. Might need to find a way to attract the audience from these other locations.<br/>
 
-![](Pics/s1.png)
+![](Pics/s1.PNG)
 
 <br/>
 2. Munich <br/>
 The triangular area formed by LMU (Ludwig Maximilian University of Munich), TU Munich (Technical University of Munich) and Munich Main Station. Could potentially attract students and other crowds to an inexpensive restaurant.<br/>
 
-![](Pics/s2.png)
+![](Pics/s2.PNG)
 
 <br/>
 3. Frankfurt <br/>
 Most of the city has top-class restaurants spread all over. Either avoid or find a way to funnel the people to your location.<br/>
 
-![](Pics/s3.png)
+![](Pics/s3.PNG)
 
 <br/>
 4. Essen <br/>
 Near University of Duisburg-Essen. Most are low rated/ranked near this location. <br/>
 
-![](Pics/s4.png)
+![](Pics/s4.PNG)
 
 <br/>
 5. Stuttgart <br/>
 Stuttgart West region has lack of top-class restaurants.<br/>
 
-![](Pics/s5.png)
+![](Pics/s5.PNG)
 
 <br/>
 9. Hannover <br/>
 Near University of Hannover. No top 50 restaurants located nearby. <br/>
 
-![](Pics/s6.png)
+![](Pics/s6.PNG)
 
 <br/>
