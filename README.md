@@ -69,3 +69,4 @@ Near University of Hannover. No top 50 restaurants located nearby. <br/>
 ![](Pics/s6.PNG)
 
 <br/>
+__These are just some examples from the overview for a starting point. More data and research will be required for further steps.__
