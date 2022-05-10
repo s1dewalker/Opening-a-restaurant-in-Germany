@@ -40,7 +40,7 @@ A lot of the city has top class restaurants especially in the heart of the city.
 
 <br/>
 2. Munich <br/>
-The triangular area formed by LMU (Ludwig Maximilian University of Munich), TU Munich (Technical University of Munich) and Munich Main Station. Could potentially attract students and other crowds to an inexpensive restaurant.<br/>
+The triangular area around LMU (Ludwig Maximilian University of Munich), TU Munich (Technical University of Munich) and Munich Main Station. Could potentially attract students and other crowds to an inexpensive restaurant.<br/>
 
 ![](Pics/s2.PNG)
 
