@@ -64,7 +64,7 @@ Stuttgart West region has lack of top-class restaurants.<br/>
 ![](Pics/s5.PNG)
 
 <br/>
-9. Hannover <br/>
+6. Hannover <br/>
 Near University of Hannover. No top 50 restaurants located nearby. <br/>
 
 ![](Pics/s6.PNG)
