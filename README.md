@@ -2,30 +2,30 @@
 ### Hypothesis: Suggesting top locations that could give some advantage <br/>
 (Location is a key factor for opening any restaurant.)
 <br/>
-### Data Available: Top 50 ranked restaurants of a city with some details<br/>
+### Data Available: Top 50 restaurants of a city with some details<br/>
 (Using 2 APIs)
 <br/>
 
-### Data Analysis: Data Transformation, finding useful information available, applying clustering algorithm, and observing <br/>
-Transformed cuisine data for each restaurant into categories as it was available. Applying K-Mode clustering.<br/>
+### Data Analysis: Data Transformation, applying clustering algorithm, and observing <br/>
+Transformed cuisine data for each restaurant into categories. <br/> Applying K-Mode clustering.<br/>
 Main clusters in the latest clustering: <br/>
 <br/>
-CLUSTER 0: most bar, most European, no Asian, most German, no Italian <br/>
-CLUSTER 1: most top-ranked, most top-rated, most cafe, most Healthy <br/>
-CLUSTER 2: no top-ranked, least top-rated, no bar, no cafe, no European, all Asian, no American, no German, no Mediterranean, no Italian <br/>
-CLUSTER 3: most bars, most steakhouses, least Gluten Free Options, least Healthy, most American <br/>
-CLUSTER 4: no bar, most seafood, no Asian, no American, most Mediterranean, most Italian <br/>
+_CLUSTER 0: most bar, most European, no Asian, most German, no Italian_ <br/>
+_CLUSTER 1: most top-ranked, most top-rated, most cafe, most Healthy_ <br/>
+_CLUSTER 2: no top-ranked, least top-rated, no bar, no cafe, no European, all Asian, no American, no German, no Mediterranean, no Italian_ <br/>
+_CLUSTER 3: most bars, most steakhouses, least Gluten Free Options, least Healthy, most American_ <br/>
+_CLUSTER 4: no bar, most seafood, no Asian, no American, most Mediterranean, most Italian_ <br/>
 
-KEY OBSERVATIONS <br/>
-* Cafes were the most top rated
-* Top-ranked restaurants were mostly having healthy, seafood, Mediterranean, or Italian cuisines
-* Bars were mostly German
-* Asian cuisines were least ranked and least top rated
+__KEY OBSERVATIONS__ <br/>
+* __Cafes were the most top rated__
+* __Top-ranked restaurants were mostly having healthy, seafood, Mediterranean, or Italian cuisines__
+* __Bars were mostly German__
+* __Asian cuisines were least ranked and least top rated__
 
-### Synthesis: Providing sensible suggestions with the observations made on the limited data available <br/>
-* Best option would be to open a cafe or restaurant with healthy/seafood/Mediterranean/Italian cuisines
-* Bars would be a competitive market with local German and European cuisines
-* Avoid or have fewer Asian cuisines
+### Synthesis: Providing sensible suggestions after observation <br/>
+* __Best option would be to open a cafe or restaurant with healthy/seafood/Mediterranean/Italian cuisines__
+* __Bars would be a competitive market with local German and European cuisines__
+* __Avoid or have fewer Asian cuisines__
 
 ### After observing the clusters from the map:
 Few suggestions based on demographic and competition; ignoring budget, accessibility, crime, size and space requirements, or other data that is not available <br/>
