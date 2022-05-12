@@ -29,11 +29,12 @@ __KEY OBSERVATIONS__ <br/>
 
 ### After observing the clusters from the map:
 Few suggestions based on demographic and competition; ignoring budget, accessibility, crime, size and space requirements, or other data that is not available <br/>
+
 Demographics: If your target audience consists of students then consider opening an inexpensive restaurant.<br/>
 Competition: If the area has more top-rated and top-ranked restaurants then either avoid or find a way to funnel the people to your location. <br/>
+
 Few examples of points of interest:<br/>
 (purple: most top-ranked, most top-rated | red: no top ranked, least top rated | green: others)
-
 <br/>
 1. Berlin <br/>
 A lot of the city has top-class restaurants, especially in the heart of the city. But near Tegel airport there is none. Might need to find a way to attract the audience from these other locations.<br/>
