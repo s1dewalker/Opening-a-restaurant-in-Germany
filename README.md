@@ -8,8 +8,8 @@
 
 ### Data Analysis: Data Transformation, applying clustering algorithm, and observing <br/>
 Transformed cuisine data for each restaurant into categories. <br/> Applying K-Mode clustering.<br/>
-Main clusters in the latest clustering: <br/>
 <br/>
+Main clusters in the latest clustering: <br/>
 _CLUSTER 0: most bar, most European, no Asian, most German, no Italian_ <br/>
 _CLUSTER 1: most top-ranked, most top-rated, most cafe, most Healthy_ <br/>
 _CLUSTER 2: no top-ranked, least top-rated, no bar, no cafe, no European, all Asian, no American, no German, no Mediterranean, no Italian_ <br/>
