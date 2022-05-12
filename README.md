@@ -1,4 +1,3 @@
-# Opening a restaurant in Germany
 ### Hypothesis: Suggesting top locations that could give some advantage. <br/>
 (Location is a key factor for opening any restaurant.)
 <br/>
