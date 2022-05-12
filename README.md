@@ -1,5 +1,5 @@
 ![](Pics/resto.jpg)
-### Hypothesis: Suggesting top locations that could give some advantage. <br/>
+### Hypothesis: Suggesting top locations that could give some advantage <br/>
 (Location is a key factor for opening any restaurant.)
 <br/>
 ### Data Available: Top 50 ranked restaurants of a city with some details<br/>
