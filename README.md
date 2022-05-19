@@ -18,7 +18,7 @@ _(K-Mode clustering, Python)_<br/>
 * __Best option would be to open a cafe, steakhouse or a hybrid steakhouse cafe__
   * __Cafes had the highest average rating and steakhouse had the highest presence in top 1%__
   * __Both had similar competition in the lower end__
-* __Only 3% of cuisines were Indian and one-third of them were in the top 1% (Highest)__<br/.
+* __Only 3% of cuisines were Indian and one-third of them were in the top 1% (Highest)__<br/>
 
 ### Reporting and Visualization <br/>
 _(Power BI)_<br/>
