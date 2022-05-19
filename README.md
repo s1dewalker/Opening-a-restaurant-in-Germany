@@ -1,40 +1,38 @@
 ![](Pics/resto.jpg)
-### Hypothesis: Suggesting top locations that could give some advantage <br/>
-(Location is a key factor for opening any restaurant.)
+### Hypothesis <br/>
+Suggesting top locations that could give some advantage <br/>
+_(Location and cuisine types are key factors for opening any restaurant.)_
 <br/>
-### Data Available: Top 50 restaurants of a city with some details<br/>
-(Using 2 APIs)
-<br/>
+### Data <br/> 
+Top 50 restaurants of a city with some details<br/>
+[Data Extraction & Data Transformation](https://github.com/s1dewalker/Opening-a-restaurant-in-Germany/blob/main/Data%20Extraction%20and%20Transformation.ipynb) <br/>
+_(2 APIs, Python)_<br/>
 
-### Data Analysis: Data Transformation, applying clustering algorithm, and observing <br/>
-Transformed cuisine data for each restaurant into categories. <br/> Applying K-Mode clustering.<br/>
-<br/>
-Main clusters in the latest clustering: <br/>
-_CLUSTER 0: most bar, most European, no Asian, most German, no Italian_ <br/>
-_CLUSTER 1: most top-ranked, most top-rated, most cafe, most Healthy_ <br/>
-_CLUSTER 2: no top-ranked, least top-rated, no bar, no cafe, no European, all Asian, no American, no German, no Mediterranean, no Italian_ <br/>
-_CLUSTER 3: most bars, most steakhouses, least Gluten Free Options, least Healthy, most American_ <br/>
-_CLUSTER 4: no bar, most seafood, no Asian, no American, most Mediterranean, most Italian_ <br/>
+### Data Analysis <br/>
+[Exploratory Data Analysis](https://github.com/s1dewalker/Opening-a-restaurant-in-Germany/blob/main/SQLQuery.sql) <br/>
+_(SQL)_ <br/>
+[Data Modeling](https://github.com/s1dewalker/Opening-a-restaurant-in-Germany/blob/main/Clustering.ipynb) <br/>
+_(K-Mode clustering, Python)_<br/>
 
-__KEY OBSERVATIONS__ <br/>
-* __Cafes were the most top rated__
-* __Top-ranked restaurants were mostly having healthy, seafood, Mediterranean, or Italian cuisines__
-* __Bars were mostly German__
-* __Asian cuisines were least ranked and least top rated__
+### Synthesis <br/>
+* __Best option would be to open a cafe, steakhouse or a hybrid steakhouse cafe__
+  * __Cafes had the highest average rating and steakhouse had the highest presence in top 1%__
+  * __Both had similar competition in the lower end__
+* __Only 3% of cuisines were Indian and one-third of them were in the top 1% (Highest)__<br/.
 
-### Synthesis: Providing sensible suggestions after observation <br/>
-* __Best option would be to open a cafe or restaurant with healthy/seafood/Mediterranean/Italian cuisines__
-* __Bars would be a competitive market with local German and European cuisines__
-* __Avoid or have fewer Asian cuisines__
+### Reporting and Visualization <br/>
+_(Power BI)_<br/>
 
-### After observing the clusters from the map:
+
+### After observing the clusters from the map
+_(Tableau)_
 Few suggestions based on demographic and competition; ignoring budget, accessibility, crime, size and space requirements, or other data that is not available <br/>
 
 Demographics: If your target audience consists of students then consider opening an inexpensive restaurant.<br/>
 Competition: If the area has more top-rated and top-ranked restaurants then either avoid or find a way to funnel the people to your location. <br/>
 
 Few examples of points of interest:<br/>
-(purple: most top-ranked, most top-rated | red: no top ranked, least top rated | green: others)
+(purple: most top-ranked, most top-rated | red: C rated | green: others)
 <br/>
 1. Berlin <br/>
 A lot of the city has top-class restaurants, especially in the heart of the city. But near Tegel airport there is none. Might need to find a way to attract the audience from these other locations.<br/>
