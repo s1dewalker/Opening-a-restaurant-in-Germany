@@ -24,15 +24,39 @@ _(K-Mode clustering, Python)_<br/>
 _(Power BI)_<br/>
 [Report](https://drive.google.com/file/d/12rXpKlnzbl0ibd-aHSGLId5d-I5THrV3/view?usp=sharing) <br/>
 Screenshots<br/>
-![](PowerBI/pb1.PNG)
-![](PowerBI/pb2.PNG)
-![](PowerBI/pb3.PNG)
-![](PowerBI/pb4.PNG)
-![](PowerBI/pb5.PNG)
-![](PowerBI/pb6.PNG)
-![](PowerBI/pb7.PNG)
-![](PowerBI/pb8.PNG)
-![](PowerBI/pb9.PNG)
+![](PowerBI/pb1.PNG) 
+
+<br/>
+
+![](PowerBI/pb2.PNG) 
+
+<br/>
+
+![](PowerBI/pb3.PNG) 
+<br/>
+![](PowerBI/pb4.PNG) 
+
+<br/>
+
+![](PowerBI/pb5.PNG) 
+
+<br/>
+
+![](PowerBI/pb6.PNG) 
+
+<br/>
+
+![](PowerBI/pb7.PNG) 
+
+<br/>
+
+![](PowerBI/pb8.PNG) 
+
+<br/>
+
+![](PowerBI/pb9.PNG) 
+
+<br/>
 
 
 ### After observing the clusters from the map
