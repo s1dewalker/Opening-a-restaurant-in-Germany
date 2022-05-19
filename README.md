@@ -22,10 +22,21 @@ _(K-Mode clustering, Python)_<br/>
 
 ### Reporting and Visualization <br/>
 _(Power BI)_<br/>
+[Report](https://drive.google.com/file/d/12rXpKlnzbl0ibd-aHSGLId5d-I5THrV3/view?usp=sharing) <br/>
+Screenshots<br/>
+![](PowerBI/pb1.PNG)
+![](PowerBI/pb2.PNG)
+![](PowerBI/pb3.PNG)
+![](PowerBI/pb4.PNG)
+![](PowerBI/pb5.PNG)
+![](PowerBI/pb6.PNG)
+![](PowerBI/pb7.PNG)
+![](PowerBI/pb8.PNG)
+![](PowerBI/pb9.PNG)
 
 
 ### After observing the clusters from the map
-_(Tableau)_
+_(Tableau)_<br/>
 Few suggestions based on demographic and competition; ignoring budget, accessibility, crime, size and space requirements, or other data that is not available <br/>
 
 Demographics: If your target audience consists of students then consider opening an inexpensive restaurant.<br/>
