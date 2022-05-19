@@ -22,7 +22,7 @@ _(K-Mode clustering, Python)_<br/>
 
 ### Reporting and Visualization <br/>
 _(Power BI)_<br/>
-[Report](https://drive.google.com/file/d/12rXpKlnzbl0ibd-aHSGLId5d-I5THrV3/view?usp=sharing) <br/>
+[Power BI Report](https://drive.google.com/file/d/12rXpKlnzbl0ibd-aHSGLId5d-I5THrV3/view?usp=sharing) <br/>
 Screenshots<br/>
 ![](PowerBI/pb1.PNG) 
 
