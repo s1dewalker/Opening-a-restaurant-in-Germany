@@ -1,5 +1,5 @@
 ![](Pics/resto.jpg)
-### Hypothesis <br/>
+### Goal <br/>
 Suggesting top locations that could give some advantage <br/>
 _(Location and cuisine types are key factors for opening any restaurant.)_
 <br/>
